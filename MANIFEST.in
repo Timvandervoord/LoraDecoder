@@ -1,0 +1,8 @@
+include AUTHORS.txt
+include LICENSE.txt
+include MANIFEST.in
+include loraExample_config.ini
+include loraExample_relayServer.py
+include loraExample_testclient.py
+
+recursive-include loraModule *
